@@ -45,6 +45,11 @@ The **Smart Expense Splitter** operates on a simple, automated workflow that tak
 ## execution 
 
 ``` bash
+## 💻 Execution
+
+```bash
+node expense_splitter.js
+
 ## 💻 Code (Core Optimization Engine)
 
 Below is the core JavaScript algorithm used by the backend to calculate and minimize the group settlements:
@@ -117,5 +122,7 @@ Optimized Settlements: [
   { "from": "Bob", "to": "Alice", "amount": 20 }
 ]
 
-## author
-Sharanya Reddy 
+```markdown
+## 👤 Author
+Sharanya Reddy
+
